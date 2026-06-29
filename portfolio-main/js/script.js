@@ -60,7 +60,7 @@ function renderProfile(data) {
 	
     if (data.cv) {
         const cvLink = document.getElementById('cv-download');
-        cvLink.href = 'cv.html';
+        cvLink.href = 'cv.pdf';
         cvLink.querySelector('i').className = data.cv.icon;
         cvLink.removeAttribute('download');
         
