@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Rachmadhani Aji</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="cv-body">
+    <header class="cv-header-bar">
+        <div class="cv-header-left">
+            <a class="back-link" href="index.html"><i class="fas fa-arrow-left"></i> Kembali ke Portfolio</a>
+        </div>
+        <div class="cv-header-right">
+            <button id="print-cv" class="print-btn"><i class="fas fa-print"></i> Cetak / Simpan PDF</button>
+        </div>
+    </header>
+
+    <main class="cv-page">
+        <section class="cv-top">
+            <div class="cv-headline-left">
+                <img id="cv-photo" src="" alt="Foto Profil CV">
+            </div>
+            <div class="cv-headline-right">
+                <h1 id="cv-name"></h1>
+                <p class="cv-role">Electronics Engineering Technology Student</p>
+                <p id="cv-description"></p>
+                <div class="cv-contact-row">
+                    <p><i class="fas fa-envelope"></i> <span id="cv-email"></span></p>
+                    <p><i class="fas fa-phone"></i> <span id="cv-phone"></span></p>
+                </div>
+            </div>
+        </section>
+
+        <section class="cv-body-grid">
+            <aside class="cv-sidebar">
+                <div class="cv-box">
+                    <h3>Skills</h3>
+                    <div id="cv-skills" class="cv-skills"></div>
+                </div>
+
+                <div class="cv-box">
+                    <h3>Social Media</h3>
+                    <div id="cv-social" class="cv-social"></div>
+                </div>
+            </aside>
+
+            <section class="cv-content">
+                <div class="cv-box">
+                    <h3>Education</h3>
+                    <div id="cv-education"></div>
+                </div>
+
+                <div class="cv-box">
+                    <h3>Experience</h3>
+                    <div id="cv-experience"></div>
+                </div>
+
+                <div class="cv-box">
+                    <h3>Projects</h3>
+                    <div id="cv-projects"></div>
+                </div>
+            </section>
+        </section>
+    </main>
+
+    <footer class="cv-footer">
+        <p>&copy; <span id="current-year"></span> Rachmadhani Aji</p>
+    </footer>
+
+    <script src="js/cv-script.js"></script>
+</body>
+</html>
