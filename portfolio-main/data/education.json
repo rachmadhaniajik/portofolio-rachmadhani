@@ -1,0 +1,16 @@
+[
+    {
+        "university": "SMK Negeri 7 Semarang",
+		"logo": "images/ntust-logo.png",
+        "major": "electronics and communication engineering",
+        "year": "2019 - 2023",
+        "description": "GPA 90 of 100 Graduate of SMK Negeri 7 Semarang (2019–2023), majoring in Power Electronics and Communication Engineering. Equipped with a solid foundation in industrial power systems, electronic circuit design, and communication networks, developed through rigorous 4-year vocational training and practical project experiences."
+    },
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "electronics engineering technology",
+        "year": "2023 - 2027",
+        "description": "GPA 3.58 of 4.00 Engineering student/graduate from Politeknik Negeri Semarang, majoring in Electronics Engineering Technology. Possesses a strong foundation in practical electronics hardware design, industrial automation system development, and microcontrollers, backed by intense hands-on vocational training and technical project executions."
+    }
+]
