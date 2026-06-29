@@ -24,14 +24,14 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-    {"name": "PLC Programming", "icon": "fas fa-industry", "level": 80},
-    {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
+    {"name": "PLC Programming", "icon": "fas fa-industry", "level": 70},
+    {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
     {"name": "Arduino Development", "icon": "fas fa-microchip", "level": 80},
     {"name": "ROS2 & Robotics", "icon": "fas fa-robot", "level": 60},
     {"name": "3D Design", "icon": "fas fa-cube", "level": 70},
-    {"name": "Web Programming", "icon": "fas fa-code", "level": 65},
+    {"name": "Web Programming", "icon": "fas fa-code", "level": 70},
     {"name": "Microsoft Excel", "icon": "fas fa-file-excel", "level": 85},
     {"name": "Microsoft Word", "icon": "fas fa-file-word", "level": 90},
-    {"name": "Embedded Systems", "icon": "fas fa-microchip", "level": 85}
+    {"name": "Embedded Systems", "icon": "fas fa-microchip", "level": 75}
 ]
 }
