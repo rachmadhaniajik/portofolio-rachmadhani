@@ -60,9 +60,9 @@ function renderProfile(data) {
 	
     if (data.cv) {
         const cvLink = document.getElementById('cv-download');
-        cvLink.href = 'cv.pdf';
+        cvLink.href = data.cv.file;
         cvLink.querySelector('i').className = data.cv.icon;
-        cvLink.removeAttribute('download');
+        cvLink.setAttribute('download', '');
         
         // Insert CV button inside social links container
         document.getElementById('social-links').appendChild(cvLink);
