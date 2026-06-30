@@ -32,6 +32,6 @@
     {"name": "Web Programming", "icon": "fas fa-code", "level": 70},
     {"name": "Microsoft Excel", "icon": "fas fa-file-excel", "level": 85},
     {"name": "Microsoft Word", "icon": "fas fa-file-word", "level": 90},
-    {"name": "Embedded Systems", "icon": "fas fa-microchip", "level": 75}
+    {"name": "Embedded Systems", "icon": "fas fa-microchip", "level": 70}
 ]
 }
