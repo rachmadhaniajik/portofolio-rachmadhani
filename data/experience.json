@@ -1,0 +1,16 @@
+[
+    {
+        "company": "SAMSUNG service center",
+		"logo":"images/samsung-logo.png",
+        "position": "technician assistant",
+        "year": "december 2022 - february 2023",
+        "description": "Assisted technicians in the inspection, diagnosis, maintenance, and repair of various electronic and home appliances, including air conditioners (AC), refrigerators, televisions, smartphones, and washing machines. Responsible for supporting troubleshooting activities, replacing defective components, performing routine maintenance, and ensuring that all repair procedures complied with Samsung service standards. Experienced in using technical tools and diagnostic equipment to identify hardware and electrical issues, while maintaining workplace safety and delivering efficient customer service support. This role enhanced my technical skills in electronics, problem-solving, equipment maintenance, and teamwork within a professional service environment.."
+    },
+	{
+        "company": "LG-Lucky Goldstar",
+		"logo":"images/lg-logo.png",
+        "position": "technician assistant",
+        "year": "march 2023 - may 2023",
+        "description": "Supported the technical service team in handling the installation, inspection, testing, and servicing of various LG consumer electronics and home appliances, including air conditioners, refrigerators, televisions, smartphones, and washing machines. Assisted in identifying equipment malfunctions, performing functional tests, assembling and disassembling components, and verifying product performance after repairs. Contributed to maintaining service efficiency by preparing tools, documenting service activities, and ensuring compliance with workplace safety procedures. Through this role, I gained hands-on experience in appliance servicing, technical inspection, quality control, and customer-oriented technical support.."
+    }
+]
